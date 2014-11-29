@@ -3,7 +3,7 @@ vkeypad
 
 /* This is Virtual KeyPad (vKeyPad)
  * ----vKeyPad 0.9
- * developed by Lapiz
+ 
  */
 var vKey;
 window.vKeyPad = function(TextBox){
